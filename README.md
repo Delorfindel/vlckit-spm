@@ -22,3 +22,6 @@ See the [VLCKit documentation](https://videolan.videolan.me/VLCKit/) for more in
 
 ### Building
 If you would like to bundle your own VLCKit binaries run the `generate.sh` script.
+
+[Links to VLCKit binary sources](https://download.videolan.org/cocoapods/prod/)
+
